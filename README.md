@@ -7,18 +7,18 @@
 
 # 搬瓦工优惠码
 
-很多人不知道，搬[搬瓦工官网](https://www.bwh8.net/aff.php?aff=32874)隐藏了一个彩蛋，就是隐藏了优惠码，这个优惠码可以省掉一些费用，比如一年 19 刀的VPS，使用优惠码的时候只需 18 刀多一点，简直不能再划算了。
+很多人不知道，搬[搬瓦工官网](https://www.bwh8.net/aff.php?aff=67407)隐藏了一个彩蛋，就是隐藏了优惠码，这个优惠码可以省掉一些费用，比如一年 19 刀的VPS，使用优惠码的时候只需 18 刀多一点，简直不能再划算了。
 
-点击进入[搬瓦工官网](https://www.bwh8.net/aff.php?aff=32874)进行注册就可以了，注册完之后可以选择以下可以获取优惠码的服务器，如果是个人使用的话，我觉得最便宜的已经很够用了，每个月500G的流量基本用不完的。
+点击进入[搬瓦工官网](https://www.bwh8.net/aff.php?aff=67407)进行注册就可以了，注册完之后可以选择以下可以获取优惠码的服务器，如果是个人使用的话，我觉得最便宜的已经很够用了，每个月500G的流量基本用不完的。
 
 | 搬瓦工配置 | 搬瓦工费用 | 优惠链接|
 | ------ | ------ | ------ |
-|*SPECIAL 10G KVM PROMO V3 - LOS ANGELES - CN2 * <br>  SSD硬盘: 10 GB RAID-10 <br> RAM内存: 512 MB <br> CPU处理器: 1x Intel Xeon <br> Transfer流量: 500 GB/月 <br> 连接速度: 1 Gigabit <br> 洛杉矶机房，CN2路线，使用中国的直线路线，速度加快 | $29.99 /年 | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=56) |
-| *20G KVM – PROMO* <br> SSD硬盘: 20 GB RAID-10 <br>RAM内存: 1024 MB <br>CPU处理器: 2x Intel Xeon <br>Transfer流量: 1 TB/mo <br>连接速度: 1 Gigabit <br>Multiple locations| $49.99/年 | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=44)|
-| *40G KVM – PROMO* <br> SSD硬盘: 40 GB RAID-10 <br>RAM内存: 2 GB <br>CPU处理器: 3x Intel Xeon <br>Transfer流量: 2 TB/mo <br>连接速度: 1 Gigabit <br>Multiple locations| $99.99/年 | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=45) |
-| *80G KVM – PROMO* <br> SSD硬盘: 80 GB RAID-10<br>RAM内存: 4 GB<br>CPU处理器: 4x Intel Xeon<br>Transfer流量: 3 TB/mo<br>连接速度: 1 Gigabit<br>Multiple locations| $19.99/月  | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=46) |
-| *160G KVM – PROMO* <br> SSD硬盘: 160 GB RAID-10<br>RAM内存: 8 GB<br>CPU处理器: 5x Intel Xeon<br>Transfer流量: 4 TB/mo<br>连接速度: 1 Gigabit<br>Multiple locations| $39.99/月 | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=47) |
-| *3200G KVM – PROMO* <br> SSD硬盘: 320 GB RAID-10<br>RAM内存: 16 GB<br>CPU处理器: 6x Intel Xeon<br>Transfer流量: 5 TB/mo<br>连接速度: 1 Gigabit<br>Multiple locations| $79.99/月 | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=48) |
+|*SPECIAL 10G KVM PROMO V3 - LOS ANGELES - CN2 * <br>  SSD硬盘: 10 GB RAID-10 <br> RAM内存: 512 MB <br> CPU处理器: 1x Intel Xeon <br> Transfer流量: 500 GB/月 <br> 连接速度: 1 Gigabit <br> 洛杉矶机房，CN2路线，使用中国的直线路线，速度加快 | $29.99 /年 | [点击进入](https://www.bwh8.net/aff.php?aff=67407&pid=56) |
+| *20G KVM – PROMO* <br> SSD硬盘: 20 GB RAID-10 <br>RAM内存: 1024 MB <br>CPU处理器: 2x Intel Xeon <br>Transfer流量: 1 TB/mo <br>连接速度: 1 Gigabit <br>Multiple locations| $49.99/年 | [点击进入](https://www.bwh8.net/aff.php?aff=67407&pid=44)|
+| *40G KVM – PROMO* <br> SSD硬盘: 40 GB RAID-10 <br>RAM内存: 2 GB <br>CPU处理器: 3x Intel Xeon <br>Transfer流量: 2 TB/mo <br>连接速度: 1 Gigabit <br>Multiple locations| $99.99/年 | [点击进入](https://www.bwh8.net/aff.php?aff=67407&pid=45) |
+| *80G KVM – PROMO* <br> SSD硬盘: 80 GB RAID-10<br>RAM内存: 4 GB<br>CPU处理器: 4x Intel Xeon<br>Transfer流量: 3 TB/mo<br>连接速度: 1 Gigabit<br>Multiple locations| $19.99/月  | [点击进入](https://www.bwh8.net/aff.php?aff=67407&pid=46) |
+| *160G KVM – PROMO* <br> SSD硬盘: 160 GB RAID-10<br>RAM内存: 8 GB<br>CPU处理器: 5x Intel Xeon<br>Transfer流量: 4 TB/mo<br>连接速度: 1 Gigabit<br>Multiple locations| $39.99/月 | [点击进入](https://www.bwh8.net/aff.php?aff=67407&pid=47) |
+| *3200G KVM – PROMO* <br> SSD硬盘: 320 GB RAID-10<br>RAM内存: 16 GB<br>CPU处理器: 6x Intel Xeon<br>Transfer流量: 5 TB/mo<br>连接速度: 1 Gigabit<br>Multiple locations| $79.99/月 | [点击进入](https://www.bwh8.net/aff.php?aff=67407&pid=48) |
 
 
 
@@ -54,7 +54,7 @@ chrome浏览器的话按F12，然后搜索「code」，你会发现有一个 「
 # 使用搬瓦工搭建shadowsocks
 
 
-有了<a href="https://bwh8.net/aff.php?aff=32874" target="_blank">搬瓦工</a>服务器的IP地址和端口,我们就可以连接了：
+有了<a href="https://bwh8.net/aff.php?aff=67407" target="_blank">搬瓦工</a>服务器的IP地址和端口,我们就可以连接了：
 
 ![搬瓦工搭建ss](https://wistbean.github.io/images/pic1.png)
 
